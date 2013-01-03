@@ -27,4 +27,6 @@ Haifisch
 #### Name for project
 thekirbylover
 
+Under GNU License
+
 Copyright © Haifisch 2013
