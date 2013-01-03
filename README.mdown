@@ -18,3 +18,12 @@ Please know I would have made some sort of application wrapper for this but Jar 
 #### Why
 Cause terminals suck to look at, Unless it's mine. I have a Fallout 3 theme on mine,
 Oh and cause managing control files SUUUCK
+
+Credits
+-------
+- Development
+	Haifisch
+- UI Design
+	Haifisch
+- Name for project
+	thekirbylover
