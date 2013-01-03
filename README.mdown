@@ -6,6 +6,7 @@ How to use
 #### Dependencies
 - Java
 - DPKG
+- NetBeans (if you want to build it like I did)
 
 #### Why
 Cause terminals suck to look at, Unless it's mine. I have a Fallout 3 theme on mine 
