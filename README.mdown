@@ -21,14 +21,10 @@ Oh and cause managing control files SUUUCK
 
 Credits
 -------
-- Development
+#### Development and UI Design
+Haifisch
 
-	Haifisch
+#### Name for project
+thekirbylover
 
-- UI Design
-
-	Haifisch
-
-- Name for project
-
-	thekirbylover
+Copyright © Haifisch 2013
