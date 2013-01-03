@@ -10,7 +10,9 @@ How to use
 
 #### Running
 As simple as double clicking the .jar file :) THIS WILL NOT LAUNCH IF THE LIB FOLDER IS NOT WITH THE ORIGINAL JAR!!!
+
 If you want to see the more verbose side of this app (literally none) run: java -jar Debbyan.jar
+
 Please know I would have made some sort of application wrapper for this but Jar Bundler doesn't like my jar for some reason and I don't want to deal with the bundler...
 
 #### Why
