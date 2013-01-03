@@ -8,6 +8,10 @@ How to use
 - DPKG
 - NetBeans (if you want to build it like I did)
 
+#### Running
+As simple as double clicking the .jar file :) THIS WILL NOT LAUNCH IF THE LIB FOLDER IS NOT WITH THE ORIGINAL JAR!!!
+
+
 #### Why
-Cause terminals suck to look at, Unless it's mine. I have a Fallout 3 theme on mine 
+Cause terminals suck to look at, Unless it's mine. I have a Fallout 3 theme on mine,
 Oh and cause managing control files SUUUCK
