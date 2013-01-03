@@ -4,3 +4,5 @@ Debby
 How to use
 ----------
 #### Depedencies
+- Java
+- DPKG
