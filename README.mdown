@@ -24,9 +24,11 @@ Credits
 - Development
 
 	Haifisch
+
 - UI Design
 
 	Haifisch
+
 - Name for project
 
 	thekirbylover
